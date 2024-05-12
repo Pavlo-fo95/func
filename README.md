@@ -1,0 +1,2 @@
+# func
+js arr
